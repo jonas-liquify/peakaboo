@@ -1,0 +1,3 @@
+[submodule "prototypes/v01-peakaboo"]
+	path = prototypes/v01-peakaboo
+	url = https://github.com/jonas-liquify/v01-peakaboo
